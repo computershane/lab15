@@ -184,7 +184,7 @@ An improperly hung door which opens away from you can be bypassed using this typ
 Answer-`shim`
 
 An improperly hung door which opens away from you can be bypassed using this type of tool?
-Answer-`Duplicate Question`
+Answer-`Travelers Hook`
 
 What type of material can be used to go over the door to grab the secure side handles when an under the door tool is not able to be used?
 Answer-`wire`
