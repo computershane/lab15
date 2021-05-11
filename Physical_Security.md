@@ -195,3 +195,5 @@ Answer-`Rex Sensor`
 Adams Rite hardware fixtures are susceptible to a bypass where a wire is snaked through
 the keyway and actuates the locking mechanism behind it, what could prevent this bypass?
 Answer-`enachateron`
+
+# Task 7  Credits and More Resources
