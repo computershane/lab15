@@ -184,7 +184,14 @@ An improperly hung door which opens away from you can be bypassed using this typ
 Answer-`shim`
 
 An improperly hung door which opens away from you can be bypassed using this type of tool?
-Answer-
+Answer-`Duplicate Question`
 
 What type of material can be used to go over the door to grab the secure side handles when an under the door tool is not able to be used?
-Answer-`
+Answer-`wire`
+
+Canned air can be used to bypass what type of door controller hardware?
+Answer-`Rex Sensor`
+
+Adams Rite hardware fixtures are susceptible to a bypass where a wire is snaked through
+the keyway and actuates the locking mechanism behind it, what could prevent this bypass?
+Answer-`enachateron`
